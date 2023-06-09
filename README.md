@@ -8,7 +8,7 @@ Welcome to my GitHub profile...I know what you are here for🌚...Hear me out...
 About Me 💻 📊
 I am a Data Analyst with experience using Python, Power BI, and SQL for data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization.
 
-Hands on experience of Microsoft Excel,  Power BI (Power Query and DAX), tableau (MDX) and tableau pre for data reporting and dashboard development.
+Hands on experience of Microsoft Excel,  Power BI (Power Query and DAX), tableau (VisQL) and tableau pre for data reporting and dashboard development.
 
 I specifically use Power BI for building reports and dashboards that communicates insights in a more structured way. You can check out some of my Power BI projects
 
